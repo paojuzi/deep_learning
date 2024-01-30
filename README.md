@@ -6,7 +6,7 @@
 
 ##### 问题汇总
 
-###### Vscode 中不显示 conda 环境变量名称
+##### Vscode 中不显示 conda 环境变量名称
 
 1、在 Trminal 中输入
 
@@ -32,7 +32,9 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
 
 
-###### Pip 换源
+
+
+##### Pip 换源
 
 切换到环境下，输入命令
 
